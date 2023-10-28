@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/fdbhZD1/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "description": "Clean water for children refers to the critical provision of safe and uncontaminated drinking water to young individuals around the world. Ensuring access to clean water is essential for children's health, as it helps prevent waterborne diseases, ensures proper hydration, and supports overall well-being. Access to clean water also plays a fundamental role in enhancing educational opportunities, as it reduces absenteeism due to illnesses caused by water-related issues. This vital initiative aims to secure a brighter and healthier future for children by addressing one of their most fundamental needs – clean and safe drinking water",
+        "price": 290.99,
+        "background": "#0052FF26",
+        "categoryBackground": "#0052FF33",
+        "text": "#0052FF"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/DQCL8mh/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "description": "Good education is the cornerstone of personal growth and societal progress. It empowers individuals with knowledge, critical thinking skills, and opportunities for a brighter future. Quality education transcends borders, opening doors to new possibilities and fostering innovation. It equips individuals to overcome challenges, make informed decisions, and contribute positively to their communities. When we invest in good education, we invest in the potential of generations to come, nurturing leaders, problem solvers, and compassionate global citizens. Join us in promoting and supporting good education, as it is the key to unlocking the full potential of individuals and societies alike.",
+        "price": 145.78,
+        "background": "#FF442626",
+        "categoryBackground": "#FF442A33",
+        "text": "#FF444A"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/GHjKFyc/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "description": "A Used Clothing Drive is a community-driven effort that aims to make a positive impact in multiple ways. By organizing such an event, we encourage people to declutter their homes while giving their gently used clothing a new purpose. These collected garments can provide warmth and comfort to those in need, serving as a lifeline for individuals facing challenging circumstances. Additionally, a Used Clothing Drive promotes sustainability by extending the lifespan of clothing items and reducing textile waste. By participating in or supporting a Used Clothing Drive, you contribute to a more compassionate and eco-friendly society.",
+        "price": 290.99,
+        "background": "#79C23F26",
+        "categoryBackground": "#79C23F33",
+        "text": "#79C23F"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/M88mhSW/Rectangle-4287-2.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "description": "Better Food for Everyone is a movement committed to transforming our communities through access to nutritious and sustainable food options. We believe that everyone deserves wholesome and nourishing meals that not only satisfy hunger but also promote better health and well-being. By supporting this initiative, you are contributing to a world where food is a source of vitality and happiness, not just sustenance.We work tirelessly to ensure that fresh produce, essential staples, and culturally diverse choices are available to all, regardless of economic circumstances. Better Food for Everyone is more than a campaign; it's a vision of communities thriving on improved nutrition, greater food security, and a reduced environmental footprint.",
+        "price": 179.99,
+        "background": "#F8714726",
+        "categoryBackground": "#F8714733",
+        "text": "#F87147"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Tbrwyjr/Chasidie-052622-5-scaled.jpg",
+        "title": "Nutrition for Neighbors",
+        "category": "Food",
+        "description": "Nutrition for Neighbors is a compassionate initiative dedicated to ensuring that our neighbors have access to the essential nourishment they need. We believe that access to nutritious food is a fundamental right and a cornerstone of good health. By providing support and collecting vital food items, we aim to make sure that no one in our community goes to bed hungry. Your involvement in Nutrition for Neighbors goes a long way in strengthening the health and well-being of those around us. ",
+        "price": 189.99,
+        "background": "#F8714726",
+        "categoryBackground": "#F8714733",
+        "text": "#F87147"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/P49KSpD/istockphoto-172714305-612x612.jpg",
+        "title": "Warmth for Winter",
+        "category": "Clothing",
+        "description": "Warmth for Winter is a heartfelt campaign dedicated to ensuring that everyone in our community stays warm during the chilly winter months. By collecting and distributing warm clothing items such as coats, hats, scarves, and blankets, we aim to provide comfort and protection to those in need. Your support means more than just clothing; it's a source of warmth, dignity, and hope for individuals and families facing the harsh challenges of winter. Join us in spreading the warmth and making winter a season of care and compassion for all.",
+        "price": 295.99,
+        "background": "#79C23F26",
+        "categoryBackground": "#79C23F33",
+        "text": "#79C23F"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/h1nxdy1/DSC6817-1-Large.jpg",
+        "title": "Education for Brighter Futures",
+        "category": "Education",
+        "description": "Education for Brighter Futures is a commitment to providing accessible and high-quality learning opportunities that pave the way for a better tomorrow. This initiative recognizes that education is the key to unlocking the full potential of individuals and communities. By investing in education, we empower individuals with the knowledge, skills, and confidence needed to pursue their dreams and contribute positively to society. Education for Brighter Futures is a catalyst for personal growth, social progress, and a brighter, more promising future for all. Join us in this journey to create a world where education is a beacon of hope and a pathway to limitless possibilities.",
+        "price": 246.45,
+        "background": "#FF442626",
+        "categoryBackground": "#FF442A33",
+        "text": "#FF444A"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/1LTWmJK/NMP-4234.jpg",
+        "title": "Vaccines for a Brighter Future",
+        "category": "Health",
+        "description": "Vaccines for a Brighter Future is a campaign dedicated to ensuring access to life-saving vaccinations for people of all ages. Vaccines are our most potent tool in preventing a wide range of diseases, from childhood illnesses to deadly viruses. By supporting this initiative, you are contributing to a healthier and more secure future, where communities are shielded from the threat of preventable diseases. Your donation not only protects individual lives but also fosters community well-being, educational continuity, and economic stability. Join us in the fight for a healthier world and a brighter future through vaccination. Together, we can make a significant impact on global health.",
+        "price": 250.99,
+        "background": "#0052FF26",
+        "categoryBackground": "#0052FF33",
+        "text": "#0052FF"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/n8pQbC7/Community-Care-Clinic-Photo-by-Mike-Demas-Americares.webp",
+        "title": "Community Health Clinic Support",
+        "category": "Health",
+        "description": "Community Health Clinic Support is a vital initiative dedicated to bolstering the healthcare services available in our community. Our clinics play a crucial role in providing accessible and affordable healthcare to all, especially those who may not have easy access to medical facilities. By extending support to these clinics, we are ensuring that essential medical services are within reach for everyone, regardless of their circumstances. Your contribution to Community Health Clinic Support goes directly towards improving healthcare accessibility, enhancing medical resources, and expanding the reach of vital services. ",
+        "price": 255.75,
+        "background": "#0052FF26",
+        "categoryBackground": "#0052FF33",
+        "text": "#0052FF"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/n0kvFYr/black-teacher-171276765.webp",
+        "title": "Empowerment Through Education",
+        "category": "Education",
+        "description": "Empowerment Through Education is a transformative initiative dedicated to equipping individuals with the knowledge, skills, and opportunities they need to shape a brighter and more promising future. We believe that education is the key to personal and societal empowerment. By supporting this initiative, you are investing in the potential of individuals, enabling them to overcome barriers, achieve their dreams, and contribute positively to their communities. Your involvement in Empowerment Through Education goes beyond providing access to learning; it's about fostering self-confidence, critical thinking, and resilience.",
+        "price": 255.85,
+        "background": "#FF442626",
+        "categoryBackground": "#FF442A33",
+        "text": "#FF444A"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/PQkv7by/Screen20-Shot202019-01-1520at2010-18-3920-AM-6ae49a6aed874112a3ae143167301a96.png",
+        "title": "Baby Clothing and Essentials Drive",
+        "category": "Clothing",
+        "description": "The Baby Clothing and Essentials Drive is a heartwarming effort to provide crucial support to families welcoming new members. We understand that the arrival of a baby is a special moment, but it can also bring financial challenges. This drive aims to collect gently used baby clothing and essential items such as diapers, baby food, and hygiene products, ensuring that every baby receives a warm welcome into a caring and supportive community. Your participation in this drive goes beyond the donation of baby items; it's a gesture of compassion and solidarity with new parents facing the joys and demands of parenthood.",
+        "price": 395.99,
+        "background": "#79C23F26",
+        "categoryBackground": "#79C23F33",
+        "text": "#79C23F"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/LRkmJLd/Untitled-design-57-4-1024x576.jpg",
+        "title": "Fresh Food for Families",
+        "category": "Food",
+        "description": "Fresh Food for Families is a heartfelt initiative dedicated to ensuring that families in our community have access to wholesome and nutritious food. We understand the importance of fresh produce and its positive impact on health and well-being. By collecting and distributing fresh fruits, vegetables, and other nutritious food items, we aim to provide families with the ingredients they need to prepare balanced and delicious meals. Your support goes beyond providing food; it's a contribution to the health and happiness of families who may otherwise struggle to put nutritious meals on the table. ",
+        "price": 99.99,
+        "background": "#F8714726",
+        "categoryBackground": "#F8714733",
+        "text": "#F87147"
+    }
+]

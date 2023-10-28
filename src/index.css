@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+nav a.active{
+    color: #FF444A;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+.cover-container{
+    background-image: url("https://i.ibb.co/q7hY8dC/Screenshot-2023-09-24-222948.png"), linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+
+    
+}
+
+.search-input::placeholder{
+    color: #0B0B0B66;
+    font-size: 0.875rem;
+}
